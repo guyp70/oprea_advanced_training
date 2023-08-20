@@ -1,0 +1,11 @@
+
+# Python packages required for the REST API exercise
+
+# Uvicorn for running the FastAPI server
+Uvicorn==0.15.0
+
+# Requests for making HTTP requests in the exercise
+requests==2.25.1
+
+# FastAPI 
+fastapi=0.101.1
