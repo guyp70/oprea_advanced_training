@@ -1,0 +1,2 @@
+fast-dash==0.2.5
+plotly==5.10.0
