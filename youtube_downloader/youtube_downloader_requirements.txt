@@ -1,4 +1,0 @@
-fast-dash
-yt_dlp
-requests
-flask==2.2.5
